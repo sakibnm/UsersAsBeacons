@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UsersAsBeacons</string>
+    <string name="buttonSaveText">Send</string>
+</resources>
